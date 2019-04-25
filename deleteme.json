@@ -1,0 +1,28 @@
+{
+  'success': {
+    'total': 1
+  },
+  'contents': {
+    'quotes': [
+      {
+        'quote': 'Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You’ll win more trust, you’ll win more business, and you’ll win more peace of mind. You’ll break the system and be even more successful.',
+        'length': None,
+        'author': 'Dale Patridge',
+        'tags': [
+          'honest',
+          'inspire',
+          'success',
+          'truth',
+          'win'
+        ],
+        'category': 'inspire',
+        'date': '2019-07-05',
+        'permalink': 'https://theysaidso.com/quote/ALTQKodcrj3X6ypM8lGjnAeF/dale-patridge-every-day-you-have-a-choice-to-be-honest-or-deceptive-if-you-commi',
+        'title': 'Inspiring Quote of the day',
+        'background': 'https://theysaidso.com/img/bgs/man_on_the_mountain.jpg',
+        'id': 'ALTQKodcrj3X6ypM8lGjnAeF'
+      }
+    ],
+    'copyright': '2017-19 theysaidso.com'
+  }
+}
